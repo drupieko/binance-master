@@ -1,0 +1,12 @@
+binance-connector
+TA-Lib
+websocket-client
+mplfinance
+torch
+transformers
+python-telegram-bot
+python-dotenv
+pandas
+numpy
+scipy
+schedule
