@@ -1,0 +1,11 @@
+# test_config.py
+from config.config import (
+    BINANCE_API_KEY, BINANCE_API_SECRET,
+    TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID
+)
+
+print("BINANCE_API_KEY:", BINANCE_API_KEY[:5] + "…")
+print("BINANCE_API_SECRET:", BINANCE_API_SECRET[:5] + "…")
+print("TELEGRAM_BOT_TOKEN:", TELEGRAM_BOT_TOKEN[:5] + "…")
+print("TELEGRAM_CHAT_ID:", TELEGRAM_CHAT_ID)
+
